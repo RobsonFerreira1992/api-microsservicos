@@ -1,8 +1,8 @@
-# app-microservicos
+# app-microsservicos
 
 Projeto pessoal de aprendizado: **microsserviços, mensageria (RabbitMQ) e micro frontends** em Node.js + TypeScript.
 
-Roadmap inspirado em uma vaga real de Full Stack Sênior (JS).
+
 
 ---
 
